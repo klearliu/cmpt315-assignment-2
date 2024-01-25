@@ -1,0 +1,22 @@
+{
+  "name": "@klearliu/cmpt-315-assignment-2",
+  "version": "1.0.1",
+  "description": "package creation for assignment 2 for cmpt315",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klearliu/cmpt-315-lab-2.git"
+  },
+  "keywords": [
+    "example-lodash"
+  ],
+  "author": "Clear Liu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/klearliu/cmpt-315-lab-2/issues"
+  },
+  "homepage": "https://github.com/klearliu/cmpt-315-lab-2#readme"
+}
