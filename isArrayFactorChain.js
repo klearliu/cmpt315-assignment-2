@@ -1,8 +1,8 @@
 /**
  * Return true or false if an array is a factor chain or not.
  * 
- * @param myArray array input
- * @returns boolean
+ * @param myArray: array input
+ * @returns: boolean
  */
 function isArrayFactorChain(myArray){
     

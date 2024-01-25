@@ -1,8 +1,8 @@
 /**
  * Find all the indexes where NaN is found in a given array of numbers and NaN
  * 
- * @param myArray - Array input
- * @returns {Array} - An array
+ * @param myArray: Array input
+ * @returns: An array
  */
 function findNaNIndex(myArray){
     

@@ -2,7 +2,7 @@
  * Return the count for the number of arrays inside a given array.
  * 
  * @param myArray: array input
- * @returns count: int
+ * @returns int
  */
 function countNumberOfArrays(myArray){
     
